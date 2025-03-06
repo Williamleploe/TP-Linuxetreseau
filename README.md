@@ -5,8 +5,10 @@
 ## Projet choisit  : Routeur vpn 
 
 Ce projet a pour but de réaliser un routeur et un VPN sur un support comme une machine virtuelle, en s'appuyant sur les connaissances acquises en cours de réseau.
+Ce vpn servira de stockage pour stocker nos projets , par exemplle pour le travail de groupe , github et gitea ont des limites de places pour les videos et images.
+Pour travaillé avec des fichiers volumineux en groupe sans passer par ces platformes on a choisi de le faire via notre vpn.
 
-Nous utiliseront Rocky linux et Unbuntu 
+Nous utiliseront Rocky linux (server et routeur) et Unbuntu (clients)
 
 
 ---
