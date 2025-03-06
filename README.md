@@ -1,6 +1,6 @@
 # Présentation du projet
 
-### Participant: Rodney NGUEMA William Krommer Mathéo Maussantos
+### Participant: Rodney NGUEMA , William Krommer , Mathéo Maussantos
 
 ## Projet choisit  : Routeur vpn 
 
