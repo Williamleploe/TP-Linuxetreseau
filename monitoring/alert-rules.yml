@@ -1,0 +1,11 @@
+groups:
+- name: cpu-alerts
+  rules:
+  - alert: HighCPUUsage
+    expr: (avg by (instance) (rate(node_cpu_seconds_total{mode="idle"}[5m]))) < 0.1
+    for: 2m
+    labels:
+      severity: critical
+    annotations:
+      summary: "Le serveur VPN a une utilisation CPU trop élevée"
+      description: "L'utilisation CPU est supérieure à 90% pendant plus de 2 minutes."
