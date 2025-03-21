@@ -5,7 +5,7 @@
 - William Krommer
 - Mathéo Maussantos
 
-## Projet choisi : Routeur VPN
+## Projet choisi : Routeur, VPN
 
 Ce projet a pour but de réaliser un **routeur avec différentes fonctionnalités tel que : vpn, firewall, dhcp** à l'aide de machines virtuelle. Nous utiliserons deux machines sous  **Rocky Linux** qui nous servirons respectivement de  serveur VPN et de routeur et des machines sous **Ubuntu** qui nous ser client VPN.
 
@@ -53,3 +53,5 @@ Ce projet a pour but de réaliser un **routeur avec différentes fonctionnalité
 ```bash
 [root@vpn node_exporter-1.3.1.linux-amd64]# ./node_exporter &
 ```
+
+
